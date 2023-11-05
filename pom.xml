@@ -50,7 +50,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
-			<version>3.1.2</version>
+			<version>3.0.1</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/io.springfox/springfox-swagger2 -->
@@ -78,6 +78,7 @@
 		<plugin>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-maven-plugin</artifactId>
+			<version>3.0.1</version>
 		</plugin>
 	</plugins>
 	</build>
