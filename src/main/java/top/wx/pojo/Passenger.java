@@ -7,6 +7,7 @@ public class Passenger {
 	private String sex;
 	private Double balance;
 	private String upic_url;
+	//change
 
 	public String getUserId() {
 		return user_id;
